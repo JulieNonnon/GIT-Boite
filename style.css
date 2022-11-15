@@ -1,0 +1,24 @@
+/* div Bordure noire épaisse */
+.violet{
+    border: solid thick black;
+    background-color: darkviolet;
+    color: white;
+}
+
+/* span - partie du texte plus large */
+span{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* id - police liste de courses */
+h1{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+/* class - paragraphe rouge texte jaune */
+.redpara{
+background-color: crimson;
+color: gold;
+}
